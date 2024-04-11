@@ -1,5 +1,17 @@
+html{
+    background-color: #FFEBB2;
+}
 h1{
     text-align: center;
+    color: #912BBC;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 60px;
+}
+a{
+    color: black;
+    text-decoration: none;
 }
 #links{
     width: 50%;
