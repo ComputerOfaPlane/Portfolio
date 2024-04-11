@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+#links{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+#excited,#details{
+    text-align: center;
+}
+footer{
+    text-align: right;
+}
+img{
+    width: 100%;
+}
+#excited{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+#jigglypuff,#psyduck{
+    width: 50%;
+    margin: auto;
+}
+#gh,#ln{
+    width: 7%;
+    display: inline-block;
+}
